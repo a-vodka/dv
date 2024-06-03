@@ -57,7 +57,7 @@ Definition and purpose, Historical context and evolution, Importance in modern c
 - Task 04. [Binary tree](https://github.com/a-vodka/dv/raw/master/lab/lab04-binary%20tree.pdf)
 - Task 05. [Tree visualization with networkx](https://github.com/a-vodka/dv/raw/master/lab/lab05-networkx.pdf)
 - Task 06. [Gephi](https://github.com/a-vodka/dv/raw/master/lab/lab06-gephi.pdf)
-- Task 07. [Instagram followers](https://github.com/a-vodka/dv/raw/master/lab/lab07-instagraph.pdf)
+- Task 07. [Instagram followers](https://github.com/a-vodka/dv/blob/master/lab/lab07-instagraph.pdf)
 - Task 08. [Nonlinear dimension reduction](https://github.com/a-vodka/dv/raw/master/lab/lab08-Dim%20reduction.pdf)
 - Task 09. [PCA + SVD](https://github.com/a-vodka/dv/raw/master/lab/lab09-PCA+SVD.pdf)
 - Task 10. [CV+Report with latex](https://github.com/a-vodka/dv/raw/master/lab/lab10-latex.pdf)
